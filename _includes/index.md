@@ -1,5 +1,5 @@
 ---
-
+layout: default
 ---
 
 #Hi there. I’m Nat Ward.
