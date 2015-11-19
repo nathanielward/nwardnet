@@ -1,3 +1,7 @@
+---
+
+---
+
 #Hi there. I’m Nat Ward.
 
 There’s not much on this site. You can read a few of my scribblings elsewhere, though.
