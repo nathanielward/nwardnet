@@ -5,6 +5,6 @@ baseurl: ""
 url: http://www.nward.net
 
 # Build settings
-markdown: rdiscount
+markdown: kramdown
 rdiscount:
     extensions: [smart]
