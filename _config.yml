@@ -2,8 +2,6 @@
 title: Nathaniel Ward
 description: 
 baseurl: ""
-url: http://www.nward.net
+url: nward.net
 
-markdown: kramdown
-kramdown:
-  input: GFM
+markdown: GFM
