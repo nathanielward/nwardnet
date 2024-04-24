@@ -4,7 +4,3 @@ description:
 baseurl: ""
 url: http://www.nward.net
 
-# Build settings
-markdown: rdiscount
-rdiscount:
-    extensions: [smart]
