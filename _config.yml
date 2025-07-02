@@ -4,4 +4,4 @@ description:
 baseurl: ""
 url: nward.net
 
-markdown: GFM
+markdown: kramdown
