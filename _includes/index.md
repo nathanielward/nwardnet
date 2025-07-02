@@ -1,3 +1,8 @@
+---
+layout: default
+title: About Me
+---
+
 # Hi there. I’m Nat Ward.
 
 I’m a marketer and fundraiser focused on persuading people to advance the principles of a free society.
