@@ -5,7 +5,7 @@ title: About Me
 
 # Hi there. I’m Nat Ward.
 
-I’m a marketer and fundraiser focused on persuading people to advance the principles of a free society.
+I’m a marketer and fundraiser focused on persuading people to embrace the principles of a free society.
 
 ## How to get in touch
 
