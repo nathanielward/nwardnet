@@ -1,14 +1,12 @@
 ---
 layout: default
-title: About Me
+title: You found me
 ---
 
-# Hi there. 
+*Hi there.*
 
-You found me: Nat Ward.
+You found me: Nathaniel Ward.
 
-I’m a marketer and fundraiser focused on persuading people to embrace the principles of a free society.
+Most people end up here by accident. A few come on purpose, which I choose to find flattering rather than alarming.
 
-## How to get in touch
-
-Since you probably stalked me through my email address, send me a note that way.
+I’m a marketer and fundraiser in Washington, D.C. The email address that brought you here is the best way to reach me.
